@@ -1,0 +1,14 @@
+.container {
+  margin: auto;
+  margin-top: 200px;
+  width: 200px;
+  .text {
+    color: red;
+    font-size: 20px;
+  }
+  .button {
+    background-color: cornflowerblue;
+    padding: 15px 10px;
+    border-radius: 10px;
+  }
+}
